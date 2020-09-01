@@ -38,6 +38,8 @@ You can create a step as follow:
 
 It can be added to a cluster before it starts (see Cluster) or append to a started cluster:
 
+.. code:: python
+
     step.run_on_cluster('clusterID')
 
 If *clusterID* is None, step is added to any available cluster.
