@@ -93,4 +93,4 @@ Installation
 
 .. code-block:: bash
 
-    pip install emrhelper
+    pip install emr-helper
